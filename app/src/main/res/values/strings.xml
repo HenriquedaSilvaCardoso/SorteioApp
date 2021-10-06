@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SorteioApp</string>
+    <string name="num_max">Número Máximo</string>
+    <string name="num_min">Número Mínimo</string>
 </resources>
